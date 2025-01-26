@@ -2,8 +2,8 @@ import os
 import json
 
 # Define the folder containing the JSON files
-folder = r'C:/Users/martinko/OneDrive - MSFT/Documents/VFX/Vegas Pro/Exported Presets'
-dictionary_path = r"C:/Users/martinko/OneDrive - MSFT/Documents/VFX/Vegas Pro/Exported Presets/!!!! UniqueIDs.json"
+folder = r""
+dictionary_path = r""
 ofx_ids_path = r"C:/Users/martinko/OneDrive - MSFT/Documents/VFX/Vegas Pro/Exported Presets/!!!! OFXIDS.txt"
 
 # Load the dictionary file
