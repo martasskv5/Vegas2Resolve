@@ -63,7 +63,7 @@ Optional: you dont have to copy the files, just remeber the path to the folder
 2. Create new Fusion composition
 3. Go to `Fusion` page
 4. Go to `Workspace` -> `Scripts` -> `Martas` -> `FX Importer`
-![image](other/1.png)
+![image](Other/1.png)
 5. Select the json file you want to import
 6. Select [OFX IDs list](#ofx-ids-list)
 7. Optionally, uncheck `Exit on completion` to import multiple presets
