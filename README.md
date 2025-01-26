@@ -1,4 +1,4 @@
-# Vegas2Resolve preset convertor
+# Vegas2Resolve preset converter
 _It was easier to make this, than learn Vegas because of some presets_
 
 This set of tools was made to convert Vegas Pro presets to Resolve Fusion. Unfortunately, it only works for OFX plugins, that are available in both programs - it can export native Vegas effects, but they will not work in Fusion.
@@ -6,7 +6,7 @@ This set of tools was made to convert Vegas Pro presets to Resolve Fusion. Unfor
 Tested on Vegas Pro 18 build 334 and Resolve 19.
 
 
-- [Vegas2Resolve preset convertor](#vegas2resolve-preset-convertor)
+- [Vegas2Resolve preset converter](#vegas2resolve-preset-converter)
   - [Vegas Exporter](#vegas-exporter)
     - [Instalaion](#instalaion)
     - [Usage](#usage)
