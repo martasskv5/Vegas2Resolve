@@ -1,0 +1,346 @@
+[
+    {
+        "Description": "NewBlue AE Dream Glow - OpenFX",
+        "ID": "ofx.com.NewBlue.AEDreamGlow"
+    },
+    {
+        "Description": "uni.VHS",
+        "ID": "ofx.com.redgiantsoftware.Universe_Stylize_VHS_OFX"
+    },
+    {
+        "Description": "BCC Directional Blur OBSOLETE",
+        "ID": "ofx.com.borisfx.BCC3Directional_Blur"
+    },
+    {
+        "Description": "Twixtor",
+        "ID": "ofx.com.revisionfx.Twixtor"
+    },
+    {
+        "Description": "VEGAS Brightness and Contrast",
+        "ID": null
+    },
+    {
+        "Description": "BCC Radial Blur OBSOLETE",
+        "ID": "ofx.com.borisfx.BCC3Radial_Blur"
+    },
+    {
+        "Description": "BCC+Key Light",
+        "ID": "ofx.com.borisfx.bcc_dft.ofx.keyLight"
+    },
+    {
+        "Description": "S_Blur",
+        "ID": "ofx.com.genarts.sapphire.BlurSharpen.S_Blur"
+    },
+    {
+        "Description": "S_DissolveShake",
+        "ID": "ofx.com.genarts.sapphire.Transitions.S_DissolveShake"
+    },
+    {
+        "Description": "NewBlue AE Metallic",
+        "ID": "ofx.com.NewBlue.AEMetallic"
+    },
+    {
+        "Description": "S_WarpChroma",
+        "ID": "ofx.com.genarts.sapphire.Distort.S_WarpChroma"
+    },
+    {
+        "Description": "BCC Turbulence",
+        "ID": "ofx.com.borisfx.BCC4Turbulence"
+    },
+    {
+        "Description": "VEGAS Color Balance",
+        "ID": null
+    },
+    {
+        "Description": "VEGAS Sharpen",
+        "ID": null
+    },
+    {
+        "Description": "uni.Electrify",
+        "ID": "ofx.com.redgiantsoftware.Universe_Stylize_Electrify_OFX"
+    },
+    {
+        "Description": "VEGAS Levels",
+        "ID": null
+    },
+    {
+        "Description": "BCC+Rays",
+        "ID": "ofx.com.borisfx.bcc_dft.ofx.rays"
+    },
+    {
+        "Description": "S_NightSky",
+        "ID": "ofx.com.genarts.sapphire.Render.S_NightSky"
+    },
+    {
+        "Description": "VEGAS Linear Blur",
+        "ID": null
+    },
+    {
+        "Description": "S_WarpTransform",
+        "ID": "ofx.com.genarts.sapphire.Distort.S_WarpTransform"
+    },
+    {
+        "Description": "NewBlue ST Dream Glow - OpenFX",
+        "ID": "ofx.com.NewBlue.STDreamGlow"
+    },
+    {
+        "Description": "NewBlue AE Ghost - OpenFX",
+        "ID": "ofx.com.NewBlue.AEGhost"
+    },
+    {
+        "Description": "BCC Lens Blur OBS",
+        "ID": "ofx.com.borisfx.BCC6LensBlur"
+    },
+    {
+        "Description": "BCC Vignette",
+        "ID": "ofx.com.borisfx.BCCVignette"
+    },
+    {
+        "Description": "BCC Ripple",
+        "ID": "ofx.com.borisfx.BCC3Ripple"
+    },
+    {
+        "Description": "S_LightLeak",
+        "ID": "ofx.com.genarts.sapphire.Lighting.S_LightLeak"
+    },
+    {
+        "Description": "NewBlue PE Water Color - OpenFX",
+        "ID": "ofx.com.NewBlue.PEWaterColor"
+    },
+    {
+        "Description": "uni.Chromatic Aberration",
+        "ID": "ofx.com.redgiantsoftware.Universe_Distort_Chromatic_Aberration_OFX"
+    },
+    {
+        "Description": "S_Flicker",
+        "ID": "ofx.com.genarts.sapphire.Time.S_Flicker"
+    },
+    {
+        "Description": "S_TextureFlux",
+        "ID": "ofx.com.genarts.sapphire.Render.S_TextureFlux"
+    },
+    {
+        "Description": "VEGAS Min and Max",
+        "ID": null
+    },
+    {
+        "Description": "S_Rays",
+        "ID": "ofx.com.genarts.sapphire.Lighting.S_Rays"
+    },
+    {
+        "Description": "BCC Mixed Colors",
+        "ID": "ofx.com.borisfx.BCC3Mixed_Colors"
+    },
+    {
+        "Description": "S_WarpBubble2",
+        "ID": "ofx.com.genarts.sapphire.Distort.S_WarpBubble2"
+    },
+    {
+        "Description": "NewBlue AE Dream Glow",
+        "ID": "ofx.com.NewBlue.AEDreamGlow"
+    },
+    {
+        "Description": "S_DistortRGB",
+        "ID": "ofx.com.genarts.sapphire.Distort.S_DistortRGB"
+    },
+    {
+        "Description": "uni.Noir",
+        "ID": "ofx.com.redgiantsoftware.Universe_Stylize_Noir_Moderne_OFX"
+    },
+    {
+        "Description": "NewBlue AE Ghost",
+        "ID": "ofx.com.NewBlue.AEGhost"
+    },
+    {
+        "Description": "BCC Fast Film Glow OBSOLETE",
+        "ID": "ofx.com.borisfx.BCC_Film_Glow_Fast"
+    },
+    {
+        "Description": "NewBlue V3 Dual Booster - OpenFX",
+        "ID": "ofx.com.NewBlue.V3DualBooster"
+    },
+    {
+        "Description": "VEGAS Pinch/Punch",
+        "ID": null
+    },
+    {
+        "Description": "S_Glow",
+        "ID": "ofx.com.genarts.sapphire.Lighting.S_Glow"
+    },
+    {
+        "Description": "BCC Charcoal Sketch",
+        "ID": "ofx.com.borisfx.BCC6Charcoal_Sketch"
+    },
+    {
+        "Description": "VEGAS Color Corrector (Secondary)",
+        "ID": null
+    },
+    {
+        "Description": "uni.RGB Separation",
+        "ID": "ofx.com.redgiantsoftware.Universe_Distort_RGB_Separation_OFX"
+    },
+    {
+        "Description": "BCC Fast Lens Blur",
+        "ID": "ofx.com.borisfx.BCC_Fast_Lens_Blur"
+    },
+    {
+        "Description": "S_PsykoStripes",
+        "ID": "ofx.com.genarts.sapphire.Stylize.S_PsykoStripes"
+    },
+    {
+        "Description": "NewBlue LE Starlight - OpenFX",
+        "ID": "ofx.com.NewBlue.LEStarlight"
+    },
+    {
+        "Description": "S_BlurMoCurves",
+        "ID": "ofx.com.genarts.sapphire.BlurSharpen.S_BlurMoCurves"
+    },
+    {
+        "Description": "VEGAS HSL Adjust",
+        "ID": null
+    },
+    {
+        "Description": "BCC Color Balance",
+        "ID": "ofx.com.borisfx.BCC3Color_Balance"
+    },
+    {
+        "Description": "S_WarpFishEye",
+        "ID": "ofx.com.genarts.sapphire.Distort.S_WarpFishEye"
+    },
+    {
+        "Description": "S_Glint",
+        "ID": "ofx.com.genarts.sapphire.Lighting.S_Glint"
+    },
+    {
+        "Description": "VEGAS Wave",
+        "ID": null
+    },
+    {
+        "Description": "NewBlue AE Metallic - OpenFX",
+        "ID": "ofx.com.NewBlue.AEMetallic"
+    },
+    {
+        "Description": "S_Posterize",
+        "ID": "ofx.com.genarts.sapphire.Stylize.S_Posterize"
+    },
+    {
+        "Description": "S_EdgeDetect",
+        "ID": "ofx.com.genarts.sapphire.Stylize.S_EdgeDetect"
+    },
+    {
+        "Description": "S_Invert",
+        "ID": "ofx.com.genarts.sapphire.Adjust.S_Invert"
+    },
+    {
+        "Description": "VEGAS Gaussian Blur",
+        "ID": null
+    },
+    {
+        "Description": "S_Shake",
+        "ID": "ofx.com.genarts.sapphire.Distort.S_Shake"
+    },
+    {
+        "Description": "BCC Vignette OBSOLETE",
+        "ID": "ofx.com.borisfx.BCCVignette"
+    },
+    {
+        "Description": "BCC Prism OBSOLETE",
+        "ID": "ofx.com.borisfx.BCC4Prism"
+    },
+    {
+        "Description": "NewBlue V3 Diffusion - OpenFX",
+        "ID": "ofx.com.NewBlue.V3Diffusion"
+    },
+    {
+        "Description": "NewBlue VE Detail Enhancer - OpenFX",
+        "ID": "ofx.com.NewBlue.VEDetailEnhancer"
+    },
+    {
+        "Description": "S_CloudsPsyko",
+        "ID": "ofx.com.genarts.sapphire.Render.S_CloudsPsyko"
+    },
+    {
+        "Description": "BCC Spiral Blur OBSOLETE",
+        "ID": "ofx.com.borisfx.BCC3Spiral_Blur"
+    },
+    {
+        "Description": "S_HueSatBright",
+        "ID": "ofx.com.genarts.sapphire.Adjust.S_HueSatBright"
+    },
+    {
+        "Description": "Pinch/Punch",
+        "ID": null
+    },
+    {
+        "Description": "uni.Glow",
+        "ID": "ofx.com.redgiantsoftware.Universe_Glow_Glow_OFX"
+    },
+    {
+        "Description": "BCC Brightness-Contrast",
+        "ID": "ofx.com.borisfx.BCC3Brightness_Contrast"
+    },
+    {
+        "Description": "VEGAS Saturation Adjust",
+        "ID": null
+    },
+    {
+        "Description": "NewBlue V3 Gradient Tint - OpenFX",
+        "ID": "ofx.com.NewBlue.V3GradientTint"
+    },
+    {
+        "Description": "NewBlue PE Halovision Plus - OpenFX",
+        "ID": "ofx.com.NewBlue.PEHalovisionPlus"
+    },
+    {
+        "Description": "NewBlue VE Sharpen - OpenFX",
+        "ID": "ofx.com.NewBlue.VESharpen"
+    },
+    {
+        "Description": "S_Hotspots",
+        "ID": "ofx.com.genarts.sapphire.Adjust.S_Hotspots"
+    },
+    {
+        "Description": "S_WarpPuddle",
+        "ID": "ofx.com.genarts.sapphire.Distort.S_WarpPuddle"
+    },
+    {
+        "Description": "NewBlue V2 Shadows and Highlights - OpenFX",
+        "ID": "ofx.com.NewBlue.V2ShadowsandHighlights"
+    },
+    {
+        "Description": "S_TextureChromaSpiral",
+        "ID": "ofx.com.genarts.sapphire.Render.S_TextureChromaSpiral"
+    },
+    {
+        "Description": "BCC Directional Blur",
+        "ID": "ofx.com.borisfx.BCC3Directional_Blur"
+    },
+    {
+        "Description": "NewBlue VE Tint - OpenFX",
+        "ID": "ofx.com.NewBlue.VETint"
+    },
+    {
+        "Description": "S_DissolveEdgeRays",
+        "ID": "ofx.com.genarts.sapphire.Transitions.S_DissolveEdgeRays"
+    },
+    {
+        "Description": "BCC+Night Vision",
+        "ID": "ofx.com.borisfx.bcc_dft.ofx.nightVision"
+    },
+    {
+        "Description": "BCC Colorize Glow",
+        "ID": "ofx.com.borisfx.BCC3Colorize_Glow"
+    },
+    {
+        "Description": "uni.Chromatic Glow",
+        "ID": "ofx.com.redgiantsoftware.Universe_Glow_Chromatic_Glow_OFX"
+    },
+    {
+        "Description": "Ignite Lens Blur",
+        "ID": "ofx.com.FXHOME.HitFilm.LensBlur"
+    },
+    {
+        "Description": "NewBlue V5 Old TV - OpenFX",
+        "ID": "ofx.com.NewBlue.V5OldTV"
+    }
+]

@@ -1,0 +1,27 @@
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\bin\Debug\Newtonsoft.Json.dll
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\bin\Debug\ScriptPortal.Vegas.dll
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\bin\Debug\ScriptPortal.MediaSoftware.ExternalVideoDevice.dll
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\bin\Debug\ScriptPortal.Capture.dll
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\bin\Debug\ScriptPortal.MediaSoftware.clrshared.dll
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\bin\Debug\ScriptPortal.MediaSoftware.Skins.dll
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\bin\Debug\log4net.dll
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\bin\Debug\Newtonsoft.Json.xml
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\bin\Debug\de\ScriptPortal.Vegas.resources.dll
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\bin\Debug\es\ScriptPortal.Vegas.resources.dll
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\bin\Debug\fr\ScriptPortal.Vegas.resources.dll
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\bin\Debug\pt-BR\ScriptPortal.Vegas.resources.dll
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\bin\Debug\de\ScriptPortal.Capture.resources.dll
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\bin\Debug\es\ScriptPortal.Capture.resources.dll
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\bin\Debug\fr\ScriptPortal.Capture.resources.dll
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\bin\Debug\pt-BR\ScriptPortal.Capture.resources.dll
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\bin\Debug\de\ScriptPortal.MediaSoftware.clrshared.resources.dll
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\bin\Debug\es\ScriptPortal.MediaSoftware.clrshared.resources.dll
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\bin\Debug\fr\ScriptPortal.MediaSoftware.clrshared.resources.dll
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\bin\Debug\pt-BR\ScriptPortal.MediaSoftware.clrshared.resources.dll
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\obj\Debug\Vegas List FX.csproj.AssemblyReference.cache
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\obj\Debug\Vegas List FX.csproj.CoreCompileInputs.cache
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\obj\Debug\Vegas Li.FC748517.Up2Date
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\bin\Debug\[Martas] FX chain to json.dll
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\bin\Debug\[Martas] FX chain to json.pdb
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\obj\Debug\[Martas] FX chain to json.dll
+C:\Users\martinko\OneDrive - MSFT\Documents\csharp\Vegas List FX\Vegas List FX\obj\Debug\[Martas] FX chain to json.pdb
