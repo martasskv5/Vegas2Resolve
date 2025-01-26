@@ -1,18 +1,19 @@
 import os
 import json
+import requests
 
 # Define the folder containing the JSON files
 folder = r""
 dictionary_path = r""
-ofx_ids_path = r"C:/Users/martinko/OneDrive - MSFT/Documents/VFX/Vegas Pro/Exported Presets/!!!! OFXIDS.txt"
+ofx_ids_url = "https://raw.githubusercontent.com/martasskv5/Vegas2Resolve/refs/heads/main/Other/OFXIDS.txt"
 
 # Load the dictionary file
 with open(dictionary_path, 'r') as file:
     dictionary_data = json.load(file)
 
-# Load the OFX IDs from the text file
-with open(ofx_ids_path, 'r') as file:
-    ofx_ids = {line.strip() for line in file}
+# Load the OFX IDs from the online text file
+response = requests.get(ofx_ids_url)
+ofx_ids = {line.strip() for line in response.text.splitlines()}
 
 # Initialize a dictionary to store unique descriptions and their IDs from the dictionary
 unique_descriptions = {item['Description'].strip(): item['ID'] for item in dictionary_data}
