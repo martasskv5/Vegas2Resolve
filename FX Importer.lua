@@ -1,7 +1,7 @@
 local json = require("dkjson")
 
 local appdata_path = os.getenv("APPDATA")
-local config_file = appdata_path .. "\\Blackmagic Design\\DaVinci Resolve\\Support\\Fusion\\Scripts\\Utility\\config.json"
+local config_file = appdata_path .. "\\Blackmagic Design\\DaVinci Resolve\\Support\\Fusion\\Scripts\\Utility\\Martas\\config.json"
 print(config_file)
 
 -- Function to save configuration to JSON file

@@ -27,7 +27,7 @@ Tested on Vegas Pro 18 build 334 and Resolve 19.
 <a id="Vinstalation"></a>
 ### Instalaion
 
-1. Download the latest release from the [releases page]()
+1. Download the latest release from the [releases page](https://github.com/martasskv5/Vegas2Resolve/releases/)
 2. Unpack the archive
 3. Copy `[Martas] Exporter.dll` and `Newtonsoft.Json.dll` to the Vegas scripts folder (usually `C:\Program Files\VEGAS\VEGAS Pro XX.X\Script Menu`)
 
@@ -52,7 +52,7 @@ Optional: you dont have to copy the files, just remeber the path to the folder
 <a id="Rinstalation"></a>
 ### Instalaion
 
-1. Download the latest release from the [releases page]()
+1. Download the latest release from the [releases page](https://github.com/martasskv5/Vegas2Resolve/releases/)
 2. Unpack the archive
 3. Copy `Martas` folder to the Resolve scripts folder (usually `%APPDATA%\Blackmagic Design\DaVinci Resolve\Support\Fusion\Scripts\Utility`)
 
