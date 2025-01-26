@@ -1,0 +1,447 @@
+[
+  {
+    "Description": "S_Shake",
+    "Parameters": [
+      {
+        "Label": "Amplitude",
+        "Value": 0.5,
+        "Keyframes": [
+          {
+            "Time": {
+              "Nanos": 0,
+              "FrameCount": 0,
+              "FrameRate": 29.970029970029969
+            },
+            "Value": 0.5
+          },
+          {
+            "Time": {
+              "Nanos": 12654011,
+              "FrameCount": 37,
+              "FrameRate": 29.970029970029969
+            },
+            "Value": 0.0
+          }
+        ]
+      },
+      {
+        "Label": "Frequency",
+        "Value": 1.0
+      },
+      {
+        "Label": "X Rand Amp",
+        "Value": 0.0
+      },
+      {
+        "Label": "X Rand Freq",
+        "Value": 0.0
+      },
+      {
+        "Label": "Y Rand Amp",
+        "Value": 0.0
+      },
+      {
+        "Label": "Y Rand Freq",
+        "Value": 0.0
+      },
+      {
+        "Label": "Z Rand Freq",
+        "Value": 0.0
+      },
+      {
+        "Label": "Tilt Rand Freq",
+        "Value": 0.0
+      },
+      {
+        "Label": "Tilt Wave Amp",
+        "Value": 2.0
+      },
+      {
+        "Label": "Tilt Wave Freq",
+        "Value": 2.0
+      }
+    ]
+  },
+  {
+    "Description": "S_Shake",
+    "Parameters": [
+      {
+        "Label": "Amplitude",
+        "Value": 0.5,
+        "Keyframes": [
+          {
+            "Time": {
+              "Nanos": 0,
+              "FrameCount": 0,
+              "FrameRate": 29.970029970029969
+            },
+            "Value": 0.5
+          },
+          {
+            "Time": {
+              "Nanos": 3330003,
+              "FrameCount": 9,
+              "FrameRate": 29.970029970029969
+            },
+            "Value": 0.0
+          }
+        ]
+      },
+      {
+        "Label": "Phase",
+        "Value": 2.48
+      },
+      {
+        "Label": "X Rand Amp",
+        "Value": 0.015
+      },
+      {
+        "Label": "Y Rand Amp",
+        "Value": 0.34
+      },
+      {
+        "Label": "Tilt Rand Freq",
+        "Value": 0.0
+      },
+      {
+        "Label": "Tilt Wave Freq",
+        "Value": 0.0
+      }
+    ]
+  },
+  {
+    "Description": "S_Shake",
+    "Parameters": [
+      {
+        "Label": "Amplitude",
+        "Value": 0.5,
+        "Keyframes": [
+          {
+            "Time": {
+              "Nanos": 0,
+              "FrameCount": 0,
+              "FrameRate": 29.970029970029969
+            },
+            "Value": 0.5
+          },
+          {
+            "Time": {
+              "Nanos": 8991008,
+              "FrameCount": 26,
+              "FrameRate": 29.970029970029969
+            },
+            "Value": 0.0
+          }
+        ]
+      },
+      {
+        "Label": "Frequency",
+        "Value": 0.8
+      },
+      {
+        "Label": "X Rand Amp",
+        "Value": 0.0
+      },
+      {
+        "Label": "X Rand Freq",
+        "Value": 0.0
+      },
+      {
+        "Label": "Y Rand Amp",
+        "Value": 0.0
+      },
+      {
+        "Label": "Y Rand Freq",
+        "Value": 0.0
+      },
+      {
+        "Label": "Tilt Rand Freq",
+        "Value": 0.0
+      },
+      {
+        "Label": "Tilt Wave Amp",
+        "Value": 2.0
+      },
+      {
+        "Label": "Tilt Wave Freq",
+        "Value": 2.0
+      }
+    ]
+  },
+  {
+    "Description": "S_Shake",
+    "Parameters": [
+      {
+        "Label": "Amplitude",
+        "Value": 0.133,
+        "Keyframes": [
+          {
+            "Time": {
+              "Nanos": 0,
+              "FrameCount": 0,
+              "FrameRate": 29.970029970029969
+            },
+            "Value": 0.133
+          },
+          {
+            "Time": {
+              "Nanos": 3663003,
+              "FrameCount": 10,
+              "FrameRate": 29.970029970029969
+            },
+            "Value": 0.0
+          }
+        ]
+      },
+      {
+        "Label": "Frequency",
+        "Value": 10.0
+      },
+      {
+        "Label": "Phase",
+        "Value": 0.58
+      },
+      {
+        "Label": "X Rand Amp",
+        "Value": 0.025
+      },
+      {
+        "Label": "X Rand Freq",
+        "Value": 5.0
+      },
+      {
+        "Label": "Y Rand Amp",
+        "Value": 0.025
+      },
+      {
+        "Label": "Y Rand Freq",
+        "Value": 5.0
+      }
+    ]
+  },
+  {
+    "Description": "S_BlurMoCurves"
+  },
+  {
+    "Description": "S_Blur",
+    "Parameters": [
+      {
+        "Label": "Blur Amount",
+        "Value": 0.0068027210884353739,
+        "Keyframes": [
+          {
+            "Time": {
+              "Nanos": 0,
+              "FrameCount": 0,
+              "FrameRate": 29.970029970029969
+            },
+            "Value": 0.0068027210884353739
+          },
+          {
+            "Time": {
+              "Nanos": 8341683,
+              "FrameCount": 25,
+              "FrameRate": 29.970029970029969
+            },
+            "Value": 0.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Description": "S_Glow",
+    "Parameters": [
+      {
+        "Label": "Brightness",
+        "Value": 0.73936410570961142,
+        "Keyframes": [
+          {
+            "Time": {
+              "Nanos": 0,
+              "FrameCount": 0,
+              "FrameRate": 29.970029970029969
+            },
+            "Value": 1.4285714285714286
+          },
+          {
+            "Time": {
+              "Nanos": 8991008,
+              "FrameCount": 26,
+              "FrameRate": 29.970029970029969
+            },
+            "Value": 0.0
+          }
+        ]
+      },
+      {
+        "Label": "Color",
+        "Value": {
+          "R": 62.0,
+          "G": 163.0,
+          "B": 211.0
+        }
+      },
+      {
+        "Label": "Threshold",
+        "Value": 0.59183673469387754
+      },
+      {
+        "Label": "Edge Mode",
+        "Value": {
+          "Name": "Transparent",
+          "Index": 0
+        }
+      }
+    ]
+  },
+  {
+    "Description": "S_DissolveShake",
+    "Parameters": [
+      {
+        "Label": "Dissolve Amount",
+        "Value": 0.16326530612244897,
+        "Keyframes": [
+          {
+            "Time": {
+              "Nanos": 0,
+              "FrameCount": 0,
+              "FrameRate": 29.970029970029969
+            },
+            "Value": 0.16326530612244897
+          },
+          {
+            "Time": {
+              "Nanos": 12654010,
+              "FrameCount": 37,
+              "FrameRate": 29.970029970029969
+            },
+            "Value": 0.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Description": "uni.RGB Separation",
+    "Parameters": [
+      {
+        "Label": "Distortion",
+        "Value": 11.564625850340136,
+        "Keyframes": [
+          {
+            "Time": {
+              "Nanos": 0,
+              "FrameCount": 0,
+              "FrameRate": 29.970029970029969
+            },
+            "Value": 11.564625850340136
+          },
+          {
+            "Time": {
+              "Nanos": 24024096,
+              "FrameCount": 72,
+              "FrameRate": 29.970029970029969
+            },
+            "Value": 0.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Description": "S_Glint",
+    "Parameters": [
+      {
+        "Label": "Brightness",
+        "Value": 2.3809523809523809
+      },
+      {
+        "Label": "Threshold",
+        "Value": 0.87755102040816324
+      },
+      {
+        "Label": "Threshold Blur",
+        "Value": 0.020408163265306121
+      },
+      {
+        "Label": "Size",
+        "Value": 0.20068027210884354
+      },
+      {
+        "Label": "Size X",
+        "Value": 0.44217687074829931
+      },
+      {
+        "Label": "Size Y",
+        "Value": 0.74829931972789121
+      },
+      {
+        "Label": "Size Diag1",
+        "Value": 0.51020408163265307
+      },
+      {
+        "Label": "Size Diag2",
+        "Value": 0.51020408163265307
+      },
+      {
+        "Label": "Blur Glint",
+        "Value": 0.063265306122448989
+      }
+    ]
+  },
+  {
+    "Description": "S_Flicker",
+    "Parameters": [
+      {
+        "Label": "Amplitude",
+        "Value": 0.34285711256906481,
+        "Keyframes": [
+          {
+            "Time": {
+              "Nanos": 0,
+              "FrameCount": 0,
+              "FrameRate": 29.970029970029969
+            },
+            "Value": 0.4
+          },
+          {
+            "Time": {
+              "Nanos": 16349667,
+              "FrameCount": 49,
+              "FrameRate": 29.970029970029969
+            },
+            "Value": 0.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Description": "S_BlurMoCurves",
+    "Parameters": [
+      {
+        "Label": "Z Dist",
+        "Value": 0.8696335078534031,
+        "Keyframes": [
+          {
+            "Time": {
+              "Nanos": 0,
+              "FrameCount": 0,
+              "FrameRate": 29.970029970029969
+            },
+            "Value": 0.8696335078534031
+          },
+          {
+            "Time": {
+              "Nanos": 4337684,
+              "FrameCount": 13,
+              "FrameRate": 29.970029970029969
+            },
+            "Value": 1.0
+          }
+        ]
+      }
+    ]
+  }
+]
